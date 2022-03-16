@@ -1,0 +1,33 @@
+body{
+    margin: 0;
+}
+
+.main-frame{
+    width: 600px;
+    height: 350px;
+    border: 5px solid red;
+    margin: 0 auto;
+    padding: 10px;
+    box-sizing: border-box;
+    overflow-y: auto;
+}
+#front-line{
+    width: 300px;
+    height: 150px;
+    border: 2px solid black;
+    margin-top: 100px;
+}
+.main-frame-inner{
+    margin-top: 16px;
+    height: 25%;
+    width: 50%;
+    border: 2px solid yellowgreen;
+    margin-left: 10px;
+    overflow: auto;
+}
+#none{
+    /* display: none; */
+}
+#hidden{
+    /* visibility: hidden; */
+}
