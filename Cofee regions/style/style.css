@@ -30,6 +30,8 @@ h1{
 .main li{
     padding: 8vh 0;
     border-bottom: 1px solid #e4bb97;
+    max-width: 49vw;
+    height: 400px;
 }
 
 .main li>h2{
@@ -68,4 +70,50 @@ a:hover{
 }
 a:active{
     color: yellow;
+}
+
+.main{
+    position: relative;
+}
+
+#Brazil {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 50%;
+}
+
+#Colombia{
+    position: absolute;
+    top: 0;
+    right: 0;
+    width: 50%;
+}
+
+#India {
+    position: absolute;
+    top: 420px;
+    left: 0;
+    width: 50%;
+}
+
+#Ethiopia{
+    position: absolute;
+    top: 420px;
+    right: 0;
+    width: 50%;
+}
+
+#CostaRica{
+    position: absolute;
+    top: 840px;
+    left: 0;
+    width: 50%;
+}
+
+#Kenya{
+    position: absolute;
+    top: 840px;
+    right: 0;
+    width: 50%;
 }
