@@ -23,16 +23,18 @@ h1{
 }
 
 .main h2{
+    font-size: 3vh;
+    height: 4vh;
     background-color: #aa8eb5;
 }
 
 .main p{
-    font-size: 20px;
+    font-size: 15px;
     font-weight: 100;
     margin-bottom: 15px;
     line-height: 1.5;
     text-align: justify;
-    text-indent: 32px;
+    text-indent: 30px;
     color: #454;
 }
 
