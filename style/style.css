@@ -22,10 +22,10 @@ h1{
     text-align: justify;
 }
 
-.main h2{
+.main h2{ 
+    background-color: #aa8eb5;
     font-size: 2vh;
     height: 3vh;
-    background-color: #aa8eb5;
 }
 
 .main p{
